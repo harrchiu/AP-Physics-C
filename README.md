@@ -13,5 +13,5 @@ Initial-state/display parameters include:
 <h2>Matrix Regression</h2>
 Least-squares polynomial calculator using Vandermonde matrices; returns curve of best fit given points.
 
-<h2>Star Temperature Gradient</h2>
+<h2>Star Temperature Gradient</h2>  
 Calculate star temperatures at fixed distance intervals.
