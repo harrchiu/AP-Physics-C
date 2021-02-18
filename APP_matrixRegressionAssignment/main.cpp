@@ -1,17 +1,10 @@
-// LEAST SQUARES C++ ASSIGNMENT (including bonus)
-// - as part of APP 'Assignement 0'
-
-// Student: Harrison Chiu
-// Teacher: Mr. van Bemmel
-// Received Sept 3, 2019
-
 #include <iostream>
 #include <math.h>
 #include <vector>
 
 using namespace std;
 
-// since many 2d vectors of will be used, declare new type
+// since many 2d vectors will be used, declare new type
 // long double used to prevent math overflow and allow arithmetic precision
 typedef vector<vector<long double> > Matrix;
 
