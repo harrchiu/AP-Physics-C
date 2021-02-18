@@ -1,5 +1,4 @@
 # AP-Physics-C
-<br>
 Projects from the AP Physics Course that broke sweats.
 <br>
 <h2>2D Collision Sim.</h2>
