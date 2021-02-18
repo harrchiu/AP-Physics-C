@@ -15,5 +15,5 @@ Initial-state/display parameters include:
 Least-squares polynomial calculator using Vandermonde matrices; returns curve of best fit given points.
 
 <h2>Star Temperature Gradient</h2>  
-<br>
+
 Calculate star temperatures at fixed distance intervals. Used to identify star types based on heat dissipation rates (i.e. supernova).
