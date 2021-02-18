@@ -2,7 +2,7 @@
 Projects from the AP Physics Course that broke sweats.
 <br>
 <h2>2D Collision Sim.</h2>
-Frame by frame render of 2 spherical objects.<br>
+<p>Frame by frame render of 2 spherical objects.<p>
 Initial-state/display parameters include:
 <ul>
 	<li>Object radius, mass, position & velocity, &mu;<sub>k</sub></li> 
