@@ -1,5 +1,7 @@
 # AP-Physics-C
-
+<br>
+Projects from the AP Physics Course that broke sweats.
+<br>
 <h2>2D Collision Sim.</h2>
 Frame by frame render of 2 spherical objects.<br>
 Initial-state/display parameters include:
