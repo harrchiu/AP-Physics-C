@@ -1,5 +1,5 @@
 # AP-Physics-C
-Selected projects from the AP Physics Course that broke sweats.
+Selected projects from the AP Physics Course that broke sweats (2020 @ TOPS MGCI).
 <br>
 <h2>2D Collision Sim.</h2>
 <p>Frame by frame render of 2 spherical objects.<p>
