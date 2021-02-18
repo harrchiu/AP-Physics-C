@@ -1,16 +1,8 @@
-//
-//  main.cpp
-//  starTempGradientsAPPa
-//
-//  Created by Henry Chiu on 2019-12-04.
-//  Copyright © 2019 Henry Chiu. All rights reserved.
-//
-
 #include <iostream>
 #include <math.h>
 using namespace std;
 
-// constants in mks
+// constants in standard mks
 long double pi = 3.141592654;
 long double grav_const = 6.67408*pow(10,-11);
 
@@ -58,9 +50,7 @@ long double temperature(long double r){
 
 int main(int argc, const char * argv[]) {
     
-    //long double temperature = (0.1*pressure(r)*u*m_h)/(k*density(r));
-    
-    //cout << temperature(446600000);
+//  temperature = (0.1*pressure(r)*u*m_h)/(k*density(r));
     
     for (int x = 0; x < r_sun; x += 2000){
         cout << temperature(x);
