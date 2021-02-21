@@ -8,7 +8,7 @@ using namespace std;
 // long double used to prevent math overflow and allow arithmetic precision
 typedef vector<vector<long double> > Matrix;
 
-vector<int > newv;
+vector<int> newv;
 
 // return long double value for exponents
 long double exp(long double base, int power){
